@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paul Lanza</h1>
 <h3 align="center">Fullstack developer</h3>
 
+<p>Having always been adept with, and interested in, technology, I decided to change careers after more than 10 years in the service industry. I'm proud to now call myself a full stack developer, and am excited to continue to explore to world of coding and tech. A fast learner, I've continued my studies since the end of my bootcamp, while working on smaller personal, and professional, projects.<p>
+
 - 📫 How to reach me **paullanza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
