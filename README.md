@@ -42,7 +42,6 @@ I also co-own **[Studio Santé Active](https://studiosanteactive.com)**, a Montr
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat&logo=googleworkspace&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SERP-4285F4?style=flat&logo=google&logoColor=white"/>
 </p>
 
 ### AI Tools
@@ -52,7 +51,3 @@ I also co-own **[Studio Santé Active](https://studiosanteactive.com)**, a Montr
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white"/>
 </p>
-
----
-
-<p align="center"><i>📫 Reach me at paullanza@gmail.com</i></p>
