@@ -10,7 +10,7 @@
 
 ### About Me
 
-I'm the lead developer at **[KnowledgeKeepr](https://www.knowledgekeepr.ca)**, a First Nations community intelligence platform, where I manage the entire application: architecture, feature development, and our DigitalOcean deployment pipeline.
+I'm the lead developer at **[KnowledgeKeepr](https://www.knowledgekeepr.com)**, a First Nations community intelligence platform, where I manage the entire application: architecture, feature development, and our DigitalOcean deployment pipeline.
 
 I got my start through Le Wagon's intensive coding bootcamp, then spent close to four years afterward teaching Ruby on Rails and web development there, before moving into KnowledgeKeepr full-time at the start of this year. I'm always eager to learn, and I enjoy owning a product end-to-end, from architecture down to the details of a good user experience.
 
